@@ -1,2 +1,2 @@
-# MainaNjuguna
-MainaNjuguna
+# SamuelNjuguna
+SamuelNjuguna
